@@ -1,0 +1,17 @@
+  .lossesLeftBox {
+      background: url("../../assets/images//Loses/backgroundLosses.png") !important;
+      background-repeat: no-repeat !important;
+      background-position: center center !important;
+      background-size: contain !important;
+      display: flex;
+      width: 100%;
+      height: 100%;
+  }
+
+  .datePickerCustom {
+      border: 1px solid #D2DCE0;
+      border-radius: 6px;
+      color: #91A1A9;
+      height: 34.5px;
+      font-size: 14px;
+  }

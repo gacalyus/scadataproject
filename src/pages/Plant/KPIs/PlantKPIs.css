@@ -1,0 +1,30 @@
+ 
+
+.kpiTitle {
+    color: var(--color-dark, #444978);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.kpiInfo {
+    color: var(--color-black, #272343);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.kpiInfoDetail {
+    color: #000;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.kpiBorder {
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    width: 80%;
+}

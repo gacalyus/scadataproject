@@ -1,0 +1,14 @@
+.header-paper {
+    display: flex;
+    align-items: center;
+    min-height: 64px;
+    box-shadow: none !important;
+    border-bottom: 1px solid rgba(145, 158, 171, 0.16) !important;
+
+}
+
+.home-title {
+    font-size: 42px;
+    font-weight: 600;
+    color: blue;
+}
